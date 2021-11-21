@@ -15,7 +15,7 @@ h1 {
   font-size: 50px;
   text-align: center;
   letter-spacing: 20px;
-  color: #c5d4de;
+  color: #e8f6ff;
 
 }
 h2 {
@@ -23,12 +23,12 @@ h2 {
   font-size: 30px;
   text-align: center;
   letter-spacing: 2px;
-  color: #c5d4de;
+  color: #e8f6ff;
 
 }
 
 h3 {
-  color: #c5d4de;
+  color: #e8f6ff;
   font-family: 'Comic Sans MS';
   font-size: 20px;
   text-align: center;
@@ -66,7 +66,7 @@ main p {
   text-align: left;
   width: 70%;
   font-family: Georgia;
-  color:#5a7385;
+  color:#365a73;
 }
 
 
@@ -76,21 +76,21 @@ main h1 {
   font-size: 30px;
   text-align: center;
   letter-spacing: 2px;
-  color:#799cb4;
+  color:#365a73;
 
 }
 main h2 {
   font-family: Comic Sans MS;
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
   letter-spacing: 2px;
-  color:#799cb4;
+  color:#365a73;
 
 }
 ul {
   margin: 0;
   padding: 0;
-  color:#5a7385;
+  color:#365a73;
 
 
 }
