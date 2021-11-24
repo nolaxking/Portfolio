@@ -1,3 +1,4 @@
+/*heading color styling*/
 .headercolor{
   background-color:#3D5A6C;
   padding: 2px;
@@ -36,7 +37,7 @@ h3 {
   letter-spacing: 2px
 
 }
-
+/* backgroung colorstyling*/
 .maincolor{
   background-color:#c5d4de;
   marigin:auto;
@@ -54,14 +55,14 @@ hr{
 
 }
 
-
+/*center styling*/
 .center {
   margin: auto;
   width: 50%;
   padding: 100px;
 }
 
-
+/*main styling*/
 main p {
   font-size:20px;
   text-align: left;
@@ -88,6 +89,7 @@ main h2 {
   color:#365a73;
 
 }
+/*page unordered list styling with link styling*/
 ul {
   margin: 0;
   padding: 0;
@@ -100,13 +102,14 @@ li{
   width: 50%;
   padding: 10px;
   text-align: left;
-
-
+  color:#365a73
 }
+1313
+
 
 
 a:link {
-  color: red;
+  color:#365a73;
 }
 
 a:visited {
@@ -120,7 +123,7 @@ a:hover {
 a:active {
   color: blue;
 }
-
+/*page footer styling*/
 .footercolor{
   background-color:#3D5A6C;
   padding: 1px;
